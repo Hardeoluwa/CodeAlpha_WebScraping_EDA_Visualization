@@ -32,6 +32,3 @@ Python 3.8+ with:
 2. Run scraping: `python web_scraping/scraper.py`
 3. Perform EDA: `python eda/analysis.py`
 4. Generate visuals: `python visualization/visualizations.py`
-
-## Sample Output
-![Sample Visualization](visualization/output_images/sample_plot.png)
